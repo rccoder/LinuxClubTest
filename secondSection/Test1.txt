@@ -1,5 +1,0 @@
-Ubuntu 14.10 amd 64
-
-sudo apt-get install git
-
-Project Url:https://github.com/rccoder/LinuxClubTest
